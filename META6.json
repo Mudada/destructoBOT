@@ -1,0 +1,25 @@
+{
+    "meta-version"  : "0",
+    "perl"          : "6.c",
+    "name"          : "destructobot",
+    "api"           : "0",
+    "version"       : "0.1",
+    "auth"          : "github:mudada",
+    "description"   : "A Pure waste of time",
+    "license"       : ":robdab:",
+    "build-depends" : [ ],
+    "test-depends"  : [ "" ],
+    "depends"       : [ "" ],
+    "provides"      : {
+    },
+    "resources" : [
+    ],
+    "authors" : [
+        "Mudada"
+    ],
+    "support" : {
+    },
+    "tags"        : [
+        "destructanus"
+    ]
+}
